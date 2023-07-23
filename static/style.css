@@ -1,0 +1,13 @@
+#logo{
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    display: block;
+    position: relative;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+}
